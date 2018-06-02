@@ -34,4 +34,4 @@ Technical reviews were made by Lasse Fister, Kalapi GajjarBordawekar and Marc Fo
 - Google commissioned Jacques Le Bailly @fonthausen to do an extensive revision of the latin character set.
 - We applied a new weight distribution across the variables. 
 - Now Montserrat has extended Cyrillic support (GF Cyrillic Pro).
-- More detais about migration in https://github.com/JulietaUla/Montserrat/releases/tag/v7.200
+- More details about migration in https://github.com/JulietaUla/Montserrat/releases/tag/v7.200
